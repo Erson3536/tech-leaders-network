@@ -1,29 +1,44 @@
 {
-  "users": [
-    { "id": 1, 
-      "fullName": "Eric Medvedev",
-      "age": "21",
-      "email": "eric.medvedev@mail.com",
-      "level": "Junior",
-      "stackList": [ "Angular", "JavaScript", "TypeScript","HTML", "CSS", "RxJS" ],
-      "workExperienceMonth": "16",
-      "position": "Mentee",
-      "status": "In team",
-      "mentorName": "Avetik",
-      "mentee": []
+  "mentors": [
+    {
+      "userType": "mentor",
+      "fullName": "Mark Miller",
+      "login": "marc_miller35",
+      "email": "marc.miller@mail.com",
+      "password": "qwe123",
+      "classFormat": [
+        "123",
+        "456"
+      ],
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "qualificationLevel": "Junior",
+      "dateOfBirth": "2012-04-23T18:25:43.511Z",
+      "aboutYou": "I am cool!",
+      "base64File": "File ..."
     },
-    { "id": 2,
-      "fullName": "Robert Miller",
-      "age": "21",
-      "email": "robert.miller@mail.com",
-      "level": "Middle",
-      "stackList": [ "C#", "ASP.NET", "EF" ],
-      "workExperienceMonth": "32",
-      "position": "Mentee",
-      "status": "In team",
-      "mentorName": "Avetik",
-      "mentee": []
+    {
+      "userType": "mentor",
+      "fullName": "Mark Miller",
+      "login": "marc_miller35",
+      "email": "marc.miller@mail.com",
+      "password": "qwe123",
+      "classFormat": [
+        "123",
+        "456"
+      ],
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "qualificationLevel": "Junior",
+      "dateOfBirth": "2012-04-23T18:25:43.511Z",
+      "aboutYou": "I am cool!",
+      "base64File": "File ..."
     }
-  
   ]
 }
