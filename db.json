@@ -39,6 +39,26 @@
       "dateOfBirth": "2012-04-23T18:25:43.511Z",
       "aboutYou": "I am cool!",
       "base64File": "File ..."
+    },
+    {
+      "userType": "mentor",
+      "fullName": "Jon Karter",
+      "login": "marc_miller35",
+      "email": "marc.miller@mail.com",
+      "password": "qwe123",
+      "classFormat": [
+        "123",
+        "456"
+      ],
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "qualificationLevel": "Junior",
+      "dateOfBirth": "2012-04-23T18:25:43.511Z",
+      "aboutYou": "I am cool!",
+      "base64File": "File ..."
     }
   ]
 }
