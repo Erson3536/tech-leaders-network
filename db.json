@@ -18,7 +18,8 @@
       "qualificationLevel": "Junior",
       "dateOfBirth": "2012-04-23T18:25:43.511Z",
       "aboutYou": "I am cool!",
-      "base64File": "File ..."
+      "base64File": "File ...",
+      "telegramLink" : "https://t.me"
     },
     {
       "userType": "mentor",
@@ -38,7 +39,8 @@
       "qualificationLevel": "Junior",
       "dateOfBirth": "2012-04-23T18:25:43.511Z",
       "aboutYou": "I am cool!",
-      "base64File": "File ..."
+      "base64File": "File ...",
+      "telegramLink" : "https://t.me"
     },
     {
       "userType": "mentor",
@@ -58,7 +60,8 @@
       "qualificationLevel": "Junior",
       "dateOfBirth": "2012-04-23T18:25:43.511Z",
       "aboutYou": "I am cool!",
-      "base64File": "File ..."
+      "base64File": "File ...",
+      "telegramLink" : "https://t.me"
     }
   ]
 }
