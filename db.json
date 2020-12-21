@@ -146,13 +146,9 @@
     "aboutYou": "Consequat pariatur irure et consectetur aliqua laborum officia duis.",
     "base64File": "../../../assets/iron-man.jpg",
     "telegramLink": "https://t.me/6600"
-  },
-  
-  
-  
-  
-  
+  }  
 ],
+
   "mentee": [
     {
     "_id": "5fe0d81a5f87cddf09cc8de5",
@@ -300,29 +296,6 @@
     "aboutYou": "Adipisicing anim sit fugiat aliqua ipsum irure irure incididunt minim ea voluptate.",
     "base64File": "../../../assets/iron-man.jpg",
     "telegramLink": "https://t.me/6600"
-  },
-  {
-    "_id": "5fe0d81a623adebba91ab7b0",
-    "userType": "mentee",
-    "fullName": "Noel Rollins",
-    "login": "Payne73",
-    "email": "noelpayne@affluex.com",
-    "password": "7286761e-357f-439b-bcb0-79b8ecc8b95f",
-    "classFormat": [
-      "online"
-    ],
-    "skills": [
-      "nodejs",
-      "html",
-      "java"
-    ],
-    "qualificationLevel": "senior",
-    "dateOfBirth": "new Date(1997-05-26T11:07:32 -04:00)",
-    "aboutYou": "Non sit ad esse ullamco aliquip adipisicing et occaecat amet sunt ea esse enim et.",
-    "base64File": "../../../assets/iron-man.jpg",
-    "telegramLink": "https://t.me/7600"
-  },
-  
-  
+  }
   ]
 }
