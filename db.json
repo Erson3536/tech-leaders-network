@@ -147,112 +147,12 @@
     "base64File": "../../../assets/iron-man.jpg",
     "telegramLink": "https://t.me/6600"
   },
-  {
-    "_id": "5fe0d7f6d0b6c2ce578c2e1f",
-    "userType": "mentor",
-    "fullName": "Annabelle Solomon",
-    "login": "Duran73",
-    "email": "annabelleduran@affluex.com",
-    "password": "e126cb26-065b-4b9e-9655-9cfca0b1bdde",
-    "classFormat": [
-      "online"
-    ],
-    "skills": [
-      "nodejs",
-      "c",
-      "kotlin"
-    ],
-    "qualificationLevel": "beginner",
-    "dateOfBirth": "new Date(1988-04-16T08:52:15 -04:00)",
-    "aboutYou": "Culpa excepteur ipsum minim eu aliquip aliqua ea elit.",
-    "base64File": "../../../assets/iron-man.jpg",
-    "telegramLink": "https://t.me/7600"
-  },
-  {
-    "_id": "5fe0d7f6fa6b38ab1d993148",
-    "userType": "mentor",
-    "fullName": "Rollins Wiley",
-    "login": "Bush83",
-    "email": "rollinsbush@affluex.com",
-    "password": "4009eec4-7ecb-423e-a8ae-9587eaf7cb2e",
-    "classFormat": [
-      "online"
-    ],
-    "skills": [
-      "react",
-      "swift",
-      "html"
-    ],
-    "qualificationLevel": "middle",
-    "dateOfBirth": "new Date(2011-01-04T06:44:13 -03:00)",
-    "aboutYou": "Commodo Lorem deserunt cupidatat occaecat non aliquip reprehenderit in occaecat qui eu et.",
-    "base64File": "../../../assets/iron-man.jpg",
-    "telegramLink": "https://t.me/8600"
-  },
-  {
-    "_id": "5fe0d7f6dde4ab3faae8f4cd",
-    "userType": "mentor",
-    "fullName": "Janna Daugherty",
-    "login": "Swanson93",
-    "email": "jannaswanson@affluex.com",
-    "password": "3186c8ca-05b0-4efb-91c1-94caac7305af",
-    "classFormat": [
-      "online"
-    ],
-    "skills": [
-      "css",
-      "c",
-      "vue"
-    ],
-    "qualificationLevel": "junior",
-    "dateOfBirth": "new Date(2010-03-28T01:05:41 -04:00)",
-    "aboutYou": "Amet id eu minim sint amet ut aute veniam esse veniam ipsum cupidatat minim.",
-    "base64File": "../../../assets/iron-man.jpg",
-    "telegramLink": "https://t.me/9600"
-  },
-  {
-    "_id": "5fe0d7f6a02965230f4eace7",
-    "userType": "mentor",
-    "fullName": "Veronica Velazquez",
-    "login": "Hansen103",
-    "email": "veronicahansen@affluex.com",
-    "password": "7089ea4a-4459-48e9-ab44-1ffa6152247a",
-    "classFormat": [
-      "offline"
-    ],
-    "skills": [
-      "java",
-      "html",
-      "html"
-    ],
-    "qualificationLevel": "beginner",
-    "dateOfBirth": "new Date(1994-07-31T04:53:27 -04:00)",
-    "aboutYou": "Nostrud aute duis aliquip laborum consectetur in nulla.",
-    "base64File": "../../../assets/iron-man.jpg",
-    "telegramLink": "https://t.me/10600"
-  },
-  {
-    "_id": "5fe0d7f618b1d4a9e976be3c",
-    "userType": "mentor",
-    "fullName": "Alba Hancock",
-    "login": "Holden113",
-    "email": "albaholden@affluex.com",
-    "password": "e3204a6a-44e8-4151-a68d-d6ea1bb80f6f",
-    "classFormat": [
-      "online"
-    ],
-    "skills": [
-      "c",
-      "python",
-      "kotlin"
-    ],
-    "qualificationLevel": "middle",
-    "dateOfBirth": "new Date(2018-02-08T11:10:20 -03:00)",
-    "aboutYou": "Ut ea minim Lorem deserunt do id reprehenderit duis.",
-    "base64File": "../../../assets/iron-man.jpg",
-    "telegramLink": "https://t.me/11600"
-  }
-  ],
+  
+  
+  
+  
+  
+],
   "mentee": [
     {
     "_id": "5fe0d81a5f87cddf09cc8de5",
@@ -422,47 +322,7 @@
     "base64File": "../../../assets/iron-man.jpg",
     "telegramLink": "https://t.me/7600"
   },
-  {
-    "_id": "5fe0d81a55f75fad426b3467",
-    "userType": "mentee",
-    "fullName": "Hawkins Carey",
-    "login": "Barlow83",
-    "email": "hawkinsbarlow@affluex.com",
-    "password": "b8fb9b54-8f5e-4d62-bbef-2b62abb70ed8",
-    "classFormat": [
-      "offline"
-    ],
-    "skills": [
-      "swift",
-      "python",
-      "php"
-    ],
-    "qualificationLevel": "beginner",
-    "dateOfBirth": "new Date(1999-06-09T02:47:55 -04:00)",
-    "aboutYou": "Consequat sunt eu pariatur anim in minim veniam laboris nisi velit.",
-    "base64File": "../../../assets/iron-man.jpg",
-    "telegramLink": "https://t.me/8600"
-  },
-  {
-    "_id": "5fe0d81a368e3d638e8c78e6",
-    "userType": "mentee",
-    "fullName": "Marci Ford",
-    "login": "Carrillo93",
-    "email": "marcicarrillo@affluex.com",
-    "password": "2ce9fe60-eef5-41f8-8f3d-b044b20d220f",
-    "classFormat": [
-      "offline"
-    ],
-    "skills": [
-      "python",
-      "nodejs",
-      "python"
-    ],
-    "qualificationLevel": "senior",
-    "dateOfBirth": "new Date(2005-01-16T06:22:05 -03:00)",
-    "aboutYou": "In ut eiusmod adipisicing incididunt ea cupidatat.",
-    "base64File": "../../../assets/iron-man.jpg",
-    "telegramLink": "https://t.me/9600"
-  }
+  
+  
   ]
 }
